@@ -1,0 +1,17 @@
+{
+	"name": "data-pipeline-adf",
+	"properties": {
+		"globalParameters": {
+			"global_fiscal_year": {
+				"type": "int",
+				"value": 2021
+			}
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "96d39c4e-1cda-4627-8136-32b733a38405",
+		"tenantId": "ef8649f9-f7a9-4c33-9687-73b7f5db0f2f"
+	}
+}
